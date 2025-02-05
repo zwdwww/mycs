@@ -1,0 +1,10 @@
+src/gg5
+nohup.out
+files/*
+Session.vim
+VimInfo
+test.go
+test.txt
+out.diff
+.idea/
+src/gg5.exe

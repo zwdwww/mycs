@@ -1,0 +1,11 @@
+{
+	"mysql_source":"lonh:Abc456852@tcp(localhost:3306)/gg5?charset=utf8",
+
+	"rong_cloud_app_key":"p5tvi9dspncu4",
+	"rong_cloud_app_secret":"cNJbOqDiMJ3n",
+	"register_temp_id":"73USNSe24SH8Chr3x7NVlK",
+
+	"wechat_app_id":"wx95ef233095cc82ec",
+	"wechat_mch_id":"1534211601",
+	"wechat_key":"zaq1zaq1zaq1zaq1zaq1zaq1zaq1zaq1"
+}
